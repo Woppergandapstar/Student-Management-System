@@ -147,4 +147,3 @@ while True:
     
     else:
         print("Invalid choice")
-print("finished")
